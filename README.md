@@ -35,5 +35,5 @@ To utilize KinderAct, simply access the web application through the provided lin
    
 Notes: The image on the left shows an example of an expression that can be followed 
 
-## Demo Project
-[KinderAct App](https://tim-1-405301.uc.r.appspot.com/)
+## Demo Project (https://youtu.be/irVxBsLXkRU)
+[![image](https://github.com/nurhikam/KinderAct/assets/92198564/e17e50d3-ed4e-4ad9-935f-65518c83e23a)](https://youtu.be/irVxBsLXkRU)
